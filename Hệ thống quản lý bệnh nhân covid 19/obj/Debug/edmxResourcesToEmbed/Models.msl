@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyCovidModelStoreContainer" CdmEntityContainer="QuanLyCovidModels">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="QuanLyCovidModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="MaTaiKhoan" ColumnName="MaTaiKhoan" />
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="Quyen" ColumnName="Quyen" />
+          <ScalarProperty Name="TenNguoiNhap" ColumnName="TenNguoiNhap" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BenhNhans">
+      <EntityTypeMapping TypeName="QuanLyCovidModel.BenhNhan">
+        <MappingFragment StoreEntitySet="BenhNhan">
+          <ScalarProperty Name="IDBenhNhan" ColumnName="IDBenhNhan" />
+          <ScalarProperty Name="TenBenhNhan" ColumnName="TenBenhNhan" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="TinhTrangSucKhoe" ColumnName="TinhTrangSucKhoe" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="TenNguoiGiamHo" ColumnName="TenNguoiGiamHo" />
+          <ScalarProperty Name="IDPhongDieuTri" ColumnName="IDPhongDieuTri" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhuVucDieuTris">
+      <EntityTypeMapping TypeName="QuanLyCovidModel.KhuVucDieuTri">
+        <MappingFragment StoreEntitySet="KhuVucDieuTri">
+          <ScalarProperty Name="IDKhuVucDieuTri" ColumnName="IDKhuVucDieuTri" />
+          <ScalarProperty Name="TenKhuVucDieuTri" ColumnName="TenKhuVucDieuTri" />
+          <ScalarProperty Name="Mota" ColumnName="Mota" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LichSuDieuTris">
+      <EntityTypeMapping TypeName="QuanLyCovidModel.LichSuDieuTri">
+        <MappingFragment StoreEntitySet="LichSuDieuTri">
+          <ScalarProperty Name="IDLichSuDieuTri" ColumnName="IDLichSuDieuTri" />
+          <ScalarProperty Name="IDBenhNhan" ColumnName="IDBenhNhan" />
+          <ScalarProperty Name="IDNguoiDieuTri" ColumnName="IDNguoiDieuTri" />
+          <ScalarProperty Name="ThoiGian" ColumnName="ThoiGian" />
+          <ScalarProperty Name="LichSuDieuTri1" ColumnName="LichSuDieuTri" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NguoiDieuTris">
+      <EntityTypeMapping TypeName="QuanLyCovidModel.NguoiDieuTri">
+        <MappingFragment StoreEntitySet="NguoiDieuTri">
+          <ScalarProperty Name="IDNguoiDieuTri" ColumnName="IDNguoiDieuTri" />
+          <ScalarProperty Name="TenNguoiDieuTri" ColumnName="TenNguoiDieuTri" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhongDieuTris">
+      <EntityTypeMapping TypeName="QuanLyCovidModel.PhongDieuTri">
+        <MappingFragment StoreEntitySet="PhongDieuTri">
+          <ScalarProperty Name="IDPhongDieuTri" ColumnName="IDPhongDieuTri" />
+          <ScalarProperty Name="TenPhongDieuTri" ColumnName="TenPhongDieuTri" />
+          <ScalarProperty Name="IDKhuVucDieuTri" ColumnName="IDKhuVucDieuTri" />
+          <ScalarProperty Name="SoLuongGiuong" ColumnName="SoLuongGiuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

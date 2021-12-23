@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5fe2cb699d581433b51ff5ef"},"Tendangnhap":"leenguynhoong","Matkhau":"123456789","Manhanvien":"002","Machucvu":"KHTP1"}
+{"_id":{"$oid":"5fe2d2bf55240dd2e754843b"},"Tendangnhap":"quanlyluong","Matkhau":"quanlyluong","Manhanvien":"007","Machucvu":"TCTP1"}
+{"_id":{"$oid":"5fe2d2e355240dd2e754843c"},"Tendangnhap":"sanxuattp","Matkhau":"888888888","Manhanvien":"008","Machucvu":"SXTP1"}
+{"_id":{"$oid":"5fe2d2f755240dd2e754843d"},"Tendangnhap":"marketing","Matkhau":"999999999","Manhanvien":"009","Machucvu":"MKTP1"}
+{"_id":{"$oid":"5fe2d31555240dd2e754843e"},"Tendangnhap":"chamsockh","Matkhau":"987654321","Manhanvien":"012","Machucvu":"CSTP1"}
+{"_id":{"$oid":"5fe2d33f55240dd2e754843f"},"Tendangnhap":"quanlynhansu","Matkhau":"quanlynhansu","Manhanvien":"013","Machucvu":"NSTP1"}
+{"_id":{"$oid":"5fe2d9e14617f62143a2f9d6"},"Tendangnhap":"quanlytatca","Matkhau":"quanlytatca","Manhanvien":"014","Machucvu":"QL"}

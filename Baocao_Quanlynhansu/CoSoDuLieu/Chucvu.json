@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5fe359fc874ddaeaf2744940"},"Machucvu":"MK001","Tenchucvu":"Nhân viên phòng marketing"}
+{"_id":{"$oid":"5fe36558870f3d3ad2eb8305"},"Machucvu":"CS001","Tenchucvu":"Nhân viên phòng cskh"}
+{"_id":{"$oid":"5fe36586870f3d3ad2eb8306"},"Machucvu":"TC001","Tenchucvu":"Nhân viên phòng tài chính"}
+{"_id":{"$oid":"5fe36594870f3d3ad2eb8307"},"Machucvu":"KH001","Tenchucvu":"Nhân viên phòng kế hoạch"}
+{"_id":{"$oid":"5fe3659b870f3d3ad2eb8308"},"Machucvu":"KH002","Tenchucvu":"Nhân viên phòng kế hoạch"}
+{"_id":{"$oid":"5fe365a0870f3d3ad2eb8309"},"Machucvu":"KH003","Tenchucvu":"Nhân viên phòng kế hoạch"}
+{"_id":{"$oid":"5fe366ad870f3d3ad2eb830a"},"Machucvu":"KHTP1","Tenchucvu":"Trưởng phòng kế hoạch"}
+{"_id":{"$oid":"5fe3670d870f3d3ad2eb830b"},"Machucvu":"MKTP1","Tenchucvu":"Trưởng phòng marketing"}
+{"_id":{"$oid":"5fe36736870f3d3ad2eb830d"},"Machucvu":"SX001","Tenchucvu":"Nhân viên phòng sản xuất"}
+{"_id":{"$oid":"5fe36762870f3d3ad2eb830e"},"Machucvu":"CSTP1","Tenchucvu":"Trưởng phòng chăm sóc"}
+{"_id":{"$oid":"5fe3679c870f3d3ad2eb830f"},"Machucvu":"NSTP1","Tenchucvu":"Trưởng phòng nhân sự"}
+{"_id":{"$oid":"5fe367dc870f3d3ad2eb8310"},"Machucvu":"TCTP1","Tenchucvu":"Trưởng phòng tài chính"}
+{"_id":{"$oid":"5fe367f0870f3d3ad2eb8311"},"Machucvu":"SXTP1","Tenchucvu":"Trưởng phòng sản xuất"}
+{"_id":{"$oid":"5fe36824870f3d3ad2eb8312"},"Machucvu":"QL","Tenchucvu":"Quản lý"}

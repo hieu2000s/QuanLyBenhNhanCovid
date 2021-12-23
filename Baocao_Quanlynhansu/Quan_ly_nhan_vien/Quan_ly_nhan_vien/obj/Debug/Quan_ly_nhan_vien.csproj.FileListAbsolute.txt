@@ -1,0 +1,656 @@
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\mongocrypt.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy32.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy64.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\libzstd.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe.config
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.pdb
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\netstandard.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\SharpCompress.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe.config
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Main.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Properties.Resources.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CopyComplete
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.pdb
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Le_Nguyen_Hung_NET_Cuoi_ky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Login.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\mongocrypt.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy32.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy64.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\libzstd.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe.config
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.pdb
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\netstandard.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\SharpCompress.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe.config
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Login.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Main.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Properties.Resources.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CopyComplete
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.pdb
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Phong.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Nhan_vien.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Tai_khoan.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Luong.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Hop_dong.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Chuc_vu.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\cuoiky\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Trinh_do.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\mongocrypt.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy32.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy64.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\libzstd.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe.config
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.pdb
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\netstandard.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\SharpCompress.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe.config
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Chuc_vu.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Hop_dong.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Login.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Luong.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Main.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Nhan_vien.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Phong.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Properties.Resources.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Tai_khoan.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Trinh_do.resources
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CopyComplete
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.pdb
+C:\Users\HP\Desktop\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.shownv.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\mongocrypt.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy32.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy64.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\libzstd.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe.config
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.pdb
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\netstandard.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.AppContext.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Concurrent.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.NonGeneric.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Specialized.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Console.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Data.Common.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Contracts.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Debug.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Process.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tools.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tracing.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Drawing.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Dynamic.Runtime.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Calendars.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Extensions.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.IsolatedStorage.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Pipes.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Expressions.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Parallel.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Queryable.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Http.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NameResolution.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NetworkInformation.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Ping.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Requests.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Security.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Sockets.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.Client.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ObjectModel.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Extensions.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Reader.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.ResourceManager.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Writer.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Extensions.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Handles.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Numerics.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Claims.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Principal.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.SecureString.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.RegularExpressions.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Overlapped.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Thread.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.ThreadPool.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Timer.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ValueTuple.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.ReaderWriter.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XDocument.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlDocument.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlSerializer.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\SharpCompress.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.dll
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.xml
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.xml
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.xml
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.xml
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.xml
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csprojAssemblyReference.cache
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe.config
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Chuc_vu.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Hop_dong.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Login.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Luong.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Main.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Nhan_vien.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Phong.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Properties.Resources.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.shownv.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Tai_khoan.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Trinh_do.resources
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.GenerateResource.cache
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CoreCompileInputs.cache
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CopyComplete
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe
+C:\D\Ky_1_nam_3\Ky_1_nam_3\NET\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.pdb
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\mongocrypt.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy32.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\snappy64.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\libzstd.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe.config
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.exe
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Quan_ly_nhan_vien.pdb
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\netstandard.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.AppContext.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Concurrent.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.NonGeneric.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Collections.Specialized.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Console.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Data.Common.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Contracts.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Debug.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Process.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tools.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Diagnostics.Tracing.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Drawing.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Dynamic.Runtime.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Calendars.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Globalization.Extensions.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.IsolatedStorage.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.Pipes.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Expressions.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Parallel.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Linq.Queryable.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Http.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NameResolution.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.NetworkInformation.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Ping.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Requests.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Security.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.Sockets.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.Client.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Net.WebSockets.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ObjectModel.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Extensions.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Reflection.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Reader.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.ResourceManager.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Resources.Writer.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Extensions.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Handles.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Numerics.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Claims.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.Principal.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Security.SecureString.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Text.RegularExpressions.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Overlapped.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Thread.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.ThreadPool.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Threading.Timer.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.ValueTuple.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.ReaderWriter.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XDocument.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlDocument.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XmlSerializer.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\SharpCompress.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.dll
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\DnsClient.xml
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Bson.xml
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.xml
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\MongoDB.Driver.Core.xml
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\bin\Debug\System.Buffers.xml
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csprojAssemblyReference.cache
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe.config
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Chuc_vu.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Hop_dong.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Login.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Luong.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Main.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Nhan_vien.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Phong.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Properties.Resources.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.shownv.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Tai_khoan.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.Trinh_do.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.GenerateResource.cache
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CoreCompileInputs.cache
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.csproj.CopyComplete
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.exe
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Baocao_Quanlynhansu\Quan_ly_nhan_vien\Quan_ly_nhan_vien\obj\Debug\Quan_ly_nhan_vien.pdb

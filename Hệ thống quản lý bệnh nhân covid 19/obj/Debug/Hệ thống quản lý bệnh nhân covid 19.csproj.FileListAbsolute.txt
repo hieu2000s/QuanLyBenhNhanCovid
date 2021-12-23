@@ -1,0 +1,58 @@
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe.config
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csprojAssemblyReference.cache
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Properties.Resources.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_bệnh_nhân.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_khu_vực_điều_trị.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Đăng_nhập.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.GenerateResource.cache
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.CoreCompileInputs.cache
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_tài_khoản.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Main.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_phòng_điều_trị.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_người_điều_trị.resources
+C:\D\ki1nam4\Hệ thống quản lý bệnh nhân covid 19\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_lịch_sử_điều_trị.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe.config
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csprojAssemblyReference.cache
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Main.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Properties.Resources.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_bệnh_nhân.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_khu_vực_điều_trị.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_lịch_sử_điều_trị.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_người_điều_trị.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_phòng_điều_trị.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_tài_khoản.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Đăng_nhập.resources
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.GenerateResource.cache
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.CoreCompileInputs.cache
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+C:\D\ki1nam4\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe.config
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csprojAssemblyReference.cache
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Main.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Properties.Resources.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_bệnh_nhân.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_khu_vực_điều_trị.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_lịch_sử_điều_trị.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_người_điều_trị.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_phòng_điều_trị.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_tài_khoản.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Đăng_nhập.resources
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.GenerateResource.cache
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.CoreCompileInputs.cache
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.dll
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.xml
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.CopyComplete
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.SqlServer.dll
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\System.Data.SqlClient.dll
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.SqlServer.xml
+D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\System.Data.SqlClient.xml

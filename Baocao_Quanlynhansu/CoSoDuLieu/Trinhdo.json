@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5fe359562f1d1e689a587c38"},"Matrinhdo":"TD001","Hocvan":"Đại học","Chuyennganh":"CNTT"}
+{"_id":{"$oid":"5fe359a4665ccc6c34e9022a"},"Matrinhdo":"TD002","Hocvan":"Cao đẳng","Chuyennganh":"CNTT"}
+{"_id":{"$oid":"5fe369958c4d115cc5d4cdda"},"Matrinhdo":"TD003","Hocvan":"Cao đẳng","Chuyennganh":"Kinh tế"}
+{"_id":{"$oid":"5fe369a18c4d115cc5d4cddb"},"Matrinhdo":"TD004","Hocvan":"Đại học","Chuyennganh":"Kinh tế"}
+{"_id":{"$oid":"5fe369b88c4d115cc5d4cddd"},"Matrinhdo":"TD005","Hocvan":"Cao đẳng","Chuyennganh":"Kế toán"}
+{"_id":{"$oid":"5fe369bc8c4d115cc5d4cdde"},"Matrinhdo":"TD006","Hocvan":"Cao đẳng","Chuyennganh":"Kế toán"}
+{"_id":{"$oid":"5fe369e48c4d115cc5d4cde1"},"Matrinhdo":"TD007","Hocvan":"Cấp 3","Chuyennganh":""}
+{"_id":{"$oid":"5fe369f18c4d115cc5d4cde2"},"Matrinhdo":"TD008","Hocvan":"Đại học","Chuyennganh":"Quản lý"}
+{"_id":{"$oid":"5fe36a138c4d115cc5d4cde4"},"Matrinhdo":"TD010","Hocvan":"Thạc sĩ","Chuyennganh":"Kinh tế"}
+{"_id":{"$oid":"5fe36a2b8c4d115cc5d4cde5"},"Matrinhdo":"TD009","Hocvan":"Tiến sĩ","Chuyennganh":"Kinh tế"}

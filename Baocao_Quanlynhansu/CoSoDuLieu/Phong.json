@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5fe1db23fe61d5cbb5d745f3"},"Maphong":"P002","Tenphong":"Phòng tài chính","Sonhanvien":2}
+{"_id":{"$oid":"5fe1de70a67dc6e81a3eb9bf"},"Maphong":"P003","Tenphong":"Phòng sản xuất","Sonhanvien":2}
+{"_id":{"$oid":"5fe1deb3a67dc6e81a3eb9c0"},"Maphong":"P001","Tenphong":"Phòng kế hoạch","Sonhanvien":4}
+{"_id":{"$oid":"5fe1decaa67dc6e81a3eb9c2"},"Maphong":"P004","Tenphong":"Phòng nhân sự","Sonhanvien":1}
+{"_id":{"$oid":"5fe1ded0a67dc6e81a3eb9c3"},"Maphong":"P005","Tenphong":"Phòng marketing","Sonhanvien":2}
+{"_id":{"$oid":"5fe1dedca67dc6e81a3eb9c4"},"Maphong":"P004","Tenphong":"Phòng chăm sóc khách hàng","Sonhanvien":2}

@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5fe2b09e3a1d9dc4643e2c44"},"Mahopdong":"HD001","Tenhopdong":"Hợp dồng 3 tháng"}
+{"_id":{"$oid":"5fe2b0a93a1d9dc4643e2c45"},"Mahopdong":"HD002","Tenhopdong":"Hợp dồng 6 tháng"}
+{"_id":{"$oid":"5fe2b0ba3a1d9dc4643e2c46"},"Mahopdong":"HD003","Tenhopdong":"Hợp dồng 1 năm"}
+{"_id":{"$oid":"5fe2b11cd77efbf8b702bff2"},"Mahopdong":"HD004","Tenhopdong":"Hợp dồng 1 năm 6 tháng"}
+{"_id":{"$oid":"5fe2b157d77efbf8b702bff5"},"Mahopdong":"HD005","Tenhopdong":"Hợp đồng 2 năm "}
+{"_id":{"$oid":"5fe2b16bd77efbf8b702bff6"},"Mahopdong":"HD006","Tenhopdong":"Hợp đồng 2 năm 6 tháng"}
+{"_id":{"$oid":"5fe2b173d77efbf8b702bff7"},"Mahopdong":"HD007","Tenhopdong":"Hợp đồng 3 năm"}
+{"_id":{"$oid":"5fe2b18ed77efbf8b702bff9"},"Mahopdong":"HD008","Tenhopdong":"Hợp đồng 4 năm"}
+{"_id":{"$oid":"5fe2b1a8d77efbf8b702bffb"},"Mahopdong":"HD009","Tenhopdong":"Hợp đồng 10 năm"}
+{"_id":{"$oid":"5fe2b1bad77efbf8b702bffc"},"Mahopdong":"HD010","Tenhopdong":"Hợp đồng vô hạn"}

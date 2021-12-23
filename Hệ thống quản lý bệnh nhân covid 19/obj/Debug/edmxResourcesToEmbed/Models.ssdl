@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyCovidModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="MaTaiKhoan" />
+    </Key>
+    <Property Name="MaTaiKhoan" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenDangNhap" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MatKhau" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Quyen" Type="bit" />
+    <Property Name="TenNguoiNhap" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CMND" Type="int" Nullable="false" />
+    <Property Name="Sdt" Type="int" />
+  </EntityType>
+  <EntityType Name="BenhNhan">
+    <Key>
+      <PropertyRef Name="IDBenhNhan" />
+    </Key>
+    <Property Name="IDBenhNhan" Type="int" Nullable="false" />
+    <Property Name="TenBenhNhan" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="GioiTinh" Type="bit" />
+    <Property Name="NgaySinh" Type="date" Nullable="false" />
+    <Property Name="CMND" Type="int" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="100" />
+    <Property Name="TinhTrangSucKhoe" Type="nvarchar" MaxLength="1" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="20" />
+    <Property Name="SDT" Type="int" />
+    <Property Name="TenNguoiGiamHo" Type="nvarchar" MaxLength="50" />
+    <Property Name="IDPhongDieuTri" Type="int" />
+  </EntityType>
+  <EntityType Name="KhuVucDieuTri">
+    <Key>
+      <PropertyRef Name="IDKhuVucDieuTri" />
+    </Key>
+    <Property Name="IDKhuVucDieuTri" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenKhuVucDieuTri" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mota" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="LichSuDieuTri">
+    <Key>
+      <PropertyRef Name="IDLichSuDieuTri" />
+    </Key>
+    <Property Name="IDLichSuDieuTri" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDBenhNhan" Type="int" />
+    <Property Name="IDNguoiDieuTri" Type="int" />
+    <Property Name="ThoiGian" Type="datetime" />
+    <Property Name="LichSuDieuTri" Type="nvarchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NguoiDieuTri">
+    <Key>
+      <PropertyRef Name="IDNguoiDieuTri" />
+    </Key>
+    <Property Name="IDNguoiDieuTri" Type="int" Nullable="false" />
+    <Property Name="TenNguoiDieuTri" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="GioiTinh" Type="bit" />
+    <Property Name="NgaySinh" Type="datetime" Nullable="false" />
+    <Property Name="CMND" Type="int" Nullable="false" />
+    <Property Name="SDT" Type="int" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="PhongDieuTri">
+    <Key>
+      <PropertyRef Name="IDPhongDieuTri" />
+    </Key>
+    <Property Name="IDPhongDieuTri" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenPhongDieuTri" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IDKhuVucDieuTri" Type="int" />
+    <Property Name="SoLuongGiuong" Type="int" />
+  </EntityType>
+  <Association Name="FK__BenhNhan__IDPhon__4D94879B">
+    <End Role="PhongDieuTri" Type="Self.PhongDieuTri" Multiplicity="0..1" />
+    <End Role="BenhNhan" Type="Self.BenhNhan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhongDieuTri">
+        <PropertyRef Name="IDPhongDieuTri" />
+      </Principal>
+      <Dependent Role="BenhNhan">
+        <PropertyRef Name="IDPhongDieuTri" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LichSuDie__IDBen__5070F446">
+    <End Role="BenhNhan" Type="Self.BenhNhan" Multiplicity="0..1" />
+    <End Role="LichSuDieuTri" Type="Self.LichSuDieuTri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BenhNhan">
+        <PropertyRef Name="IDBenhNhan" />
+      </Principal>
+      <Dependent Role="LichSuDieuTri">
+        <PropertyRef Name="IDBenhNhan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LichSuDie__IDNgu__5165187F">
+    <End Role="NguoiDieuTri" Type="Self.NguoiDieuTri" Multiplicity="0..1" />
+    <End Role="LichSuDieuTri" Type="Self.LichSuDieuTri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDieuTri">
+        <PropertyRef Name="IDNguoiDieuTri" />
+      </Principal>
+      <Dependent Role="LichSuDieuTri">
+        <PropertyRef Name="IDNguoiDieuTri" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PhongDieu__IDKhu__45F365D3">
+    <End Role="KhuVucDieuTri" Type="Self.KhuVucDieuTri" Multiplicity="0..1" />
+    <End Role="PhongDieuTri" Type="Self.PhongDieuTri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhuVucDieuTri">
+        <PropertyRef Name="IDKhuVucDieuTri" />
+      </Principal>
+      <Dependent Role="PhongDieuTri">
+        <PropertyRef Name="IDKhuVucDieuTri" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyCovidModelStoreContainer">
+    <EntitySet Name="Account" EntityType="Self.Account" Schema="Covid" store:Type="Tables" />
+    <EntitySet Name="BenhNhan" EntityType="Self.BenhNhan" Schema="Covid" store:Type="Tables" />
+    <EntitySet Name="KhuVucDieuTri" EntityType="Self.KhuVucDieuTri" Schema="Covid" store:Type="Tables" />
+    <EntitySet Name="LichSuDieuTri" EntityType="Self.LichSuDieuTri" Schema="Covid" store:Type="Tables" />
+    <EntitySet Name="NguoiDieuTri" EntityType="Self.NguoiDieuTri" Schema="Covid" store:Type="Tables" />
+    <EntitySet Name="PhongDieuTri" EntityType="Self.PhongDieuTri" Schema="Covid" store:Type="Tables" />
+    <AssociationSet Name="FK__BenhNhan__IDPhon__4D94879B" Association="Self.FK__BenhNhan__IDPhon__4D94879B">
+      <End Role="PhongDieuTri" EntitySet="PhongDieuTri" />
+      <End Role="BenhNhan" EntitySet="BenhNhan" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LichSuDie__IDBen__5070F446" Association="Self.FK__LichSuDie__IDBen__5070F446">
+      <End Role="BenhNhan" EntitySet="BenhNhan" />
+      <End Role="LichSuDieuTri" EntitySet="LichSuDieuTri" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LichSuDie__IDNgu__5165187F" Association="Self.FK__LichSuDie__IDNgu__5165187F">
+      <End Role="NguoiDieuTri" EntitySet="NguoiDieuTri" />
+      <End Role="LichSuDieuTri" EntitySet="LichSuDieuTri" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PhongDieu__IDKhu__45F365D3" Association="Self.FK__PhongDieu__IDKhu__45F365D3">
+      <End Role="KhuVucDieuTri" EntitySet="KhuVucDieuTri" />
+      <End Role="PhongDieuTri" EntitySet="PhongDieuTri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
