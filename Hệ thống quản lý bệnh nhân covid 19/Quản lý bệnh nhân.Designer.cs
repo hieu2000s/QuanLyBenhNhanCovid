@@ -505,7 +505,9 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Name = "Quản_lý_bệnh_nhân";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản_lý_bệnh_nhân";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Quản_lý_bệnh_nhân_FormClosing);
             this.Load += new System.EventHandler(this.Quản_lý_bệnh_nhân_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

@@ -123,22 +123,30 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
         private void btnXoa_Click(object sender, EventArgs e)
         {
             DialogResult dl = MessageBox.Show("Bạn có chắc chắn muốn xóa???", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (dl == DialogResult.Yes)
+            try
             {
-                var id = lv.SelectedItems[0].SubItems[1].Text;
-                var khuVuc = db.KhuVucDieuTris.Find(int.Parse(id));
-                try
+                if (dl == DialogResult.Yes)
                 {
-                    db.KhuVucDieuTris.Remove(khuVuc);
-                    db.SaveChanges();
-                    hienthi();
+                    var id = lv.SelectedItems[0].SubItems[1].Text;
+                    var khuVuc = db.KhuVucDieuTris.Find(int.Parse(id));
+                    try
+                    {
+                        db.KhuVucDieuTris.Remove(khuVuc);
+                        db.SaveChanges();
+                        hienthi();
+                    }
+                    catch (Exception)
+                    {
+                        MessageBox.Show("Bạn không thể xóa khu vực này", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
                 }
-                catch(Exception)
-                {
-                    MessageBox.Show("Bạn không thể xóa khu vực này", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                
             }
+            catch (Exception)
+            {
+                MessageBox.Show("Bạn không thể xóa khu vực này bây giờ", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
 
         private void lv_DoubleClick(object sender, EventArgs e)
@@ -155,6 +163,13 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             {
                 MessageBox.Show("Ban chua chon doi tuong.");
             }
+        }
+
+        private void Quản_lý_khu_vực_điều_trị_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Hide();
+            Main main = new Main();
+            main.ShowDialog();
         }
     }
 }

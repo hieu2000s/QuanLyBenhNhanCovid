@@ -16,7 +16,7 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Quản_lý_khu_vực_điều_trị());
+            Application.Run(new Đăng_nhập());
         }
     }
 }

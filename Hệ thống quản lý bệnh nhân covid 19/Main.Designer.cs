@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.mns2 = new System.Windows.Forms.MenuStrip();
-            this.mnsten = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnsdx = new System.Windows.Forms.ToolStripMenuItem();
             this.mns1 = new System.Windows.Forms.MenuStrip();
             this.mnsql = new System.Windows.Forms.ToolStripMenuItem();
             this.mnsqlkvdt = new System.Windows.Forms.ToolStripMenuItem();
@@ -38,8 +38,6 @@
             this.mnsqlbn = new System.Windows.Forms.ToolStripMenuItem();
             this.mnsqllsdt = new System.Windows.Forms.ToolStripMenuItem();
             this.mnsqltk = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnsdx = new System.Windows.Forms.ToolStripMenuItem();
             this.mns2.SuspendLayout();
             this.mns1.SuspendLayout();
             this.SuspendLayout();
@@ -49,28 +47,27 @@
             this.mns2.Dock = System.Windows.Forms.DockStyle.None;
             this.mns2.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.mns2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnsten,
             this.mnsdx});
             this.mns2.Location = new System.Drawing.Point(881, 0);
             this.mns2.Name = "mns2";
-            this.mns2.Size = new System.Drawing.Size(207, 31);
+            this.mns2.Size = new System.Drawing.Size(111, 31);
             this.mns2.TabIndex = 16;
             this.mns2.Text = "menuStrip1";
             // 
-            // mnsten
+            // mnsdx
             // 
-            this.mnsten.Name = "mnsten";
-            this.mnsten.Size = new System.Drawing.Size(96, 27);
-            this.mnsten.Text = "Đăng nhập";
-            this.mnsten.Click += new System.EventHandler(this.mnsten_Click);
+            this.mnsdx.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.mnsdx.Name = "mnsdx";
+            this.mnsdx.Size = new System.Drawing.Size(103, 27);
+            this.mnsdx.Text = "Đăng xuất";
+            this.mnsdx.Click += new System.EventHandler(this.mnsdx_Click);
             // 
             // mns1
             // 
             this.mns1.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.mns1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.mns1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnsql,
-            this.toolStripMenuItem1});
+            this.mnsql});
             this.mns1.Location = new System.Drawing.Point(0, 0);
             this.mns1.Name = "mns1";
             this.mns1.Size = new System.Drawing.Size(1182, 31);
@@ -132,20 +129,6 @@
             this.mnsqltk.Text = "Quản lý tài khoản";
             this.mnsqltk.Click += new System.EventHandler(this.mnsqltk_Click);
             // 
-            // toolStripMenuItem1
-            // 
-            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(95, 27);
-            this.toolStripMenuItem1.Text = "Thống kê";
-            // 
-            // mnsdx
-            // 
-            this.mnsdx.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.mnsdx.Name = "mnsdx";
-            this.mnsdx.Size = new System.Drawing.Size(103, 27);
-            this.mnsdx.Text = "Đăng xuất";
-            this.mnsdx.Click += new System.EventHandler(this.mnsdx_Click);
-            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -154,7 +137,9 @@
             this.Controls.Add(this.mns2);
             this.Controls.Add(this.mns1);
             this.Name = "Main";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Main";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
             this.Load += new System.EventHandler(this.Main_Load);
             this.mns2.ResumeLayout(false);
             this.mns2.PerformLayout();
@@ -175,9 +160,7 @@
         private System.Windows.Forms.ToolStripMenuItem mnsqlndt;
         private System.Windows.Forms.ToolStripMenuItem mnsqlbn;
         private System.Windows.Forms.ToolStripMenuItem mnsqllsdt;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem mnsqltk;
-        private System.Windows.Forms.ToolStripMenuItem mnsten;
         private System.Windows.Forms.ToolStripMenuItem mnsdx;
     }
 }

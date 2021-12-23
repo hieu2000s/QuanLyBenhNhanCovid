@@ -52,9 +52,11 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             if (t >= 0)
             {
                 ListViewItem lvi = lv.SelectedItems[0];
-                txbmbn.Text = lvi.SubItems[1].Text;
-                txbmndt.Text = lvi.SubItems[2].Text;
-                txbtg.Text = lvi.SubItems[3].Text;
+                txbmbn.Text = lvi.SubItems[2].Text;
+                txbmndt.Text = lvi.SubItems[3].Text;
+                txbtg.Text = lvi.SubItems[4].Text;
+                rtblsdt.Text = lvi.SubItems[5].Text;
+                tbID.Text = lvi.SubItems[1].Text;
             }
             else
             {
@@ -78,7 +80,7 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
                 try
                 {
                     var lichSu = new LichSuDieuTri();
-                    lichSu.IDLichSuDieuTri = int.Parse(txbmbn.Text);
+                    lichSu.IDBenhNhan = int.Parse(txbmbn.Text);
                     lichSu.ThoiGian = DateTime.Parse(txbtg.Text);
                     lichSu.IDNguoiDieuTri = int.Parse(txbmndt.Text);
                     lichSu.LichSuDieuTri1 = rtblsdt.Text;
@@ -99,19 +101,18 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             {
                 MessageBox.Show("Yêu cầu nhập đủ thông tin", "Bạn nhập thiếu thông tin", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            hienthi();
         }
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            var lichSu = db.LichSuDieuTris.Find(int.Parse(txbmbn.Text));
+            var lichSu = db.LichSuDieuTris.Find(int.Parse(tbID.Text));
             bool hasError = false;
             foreach (var el in this.groupBox1.Controls)
             {
                 if (el is TextBox)
                 {
                     TextBox tb = el as TextBox;
-                    if (string.IsNullOrWhiteSpace(tb.Text) && !tb.Name.Equals("txbTngh") && !tb.Name.Equals("txbCmnd") && !tb.Name.Equals("txbEmail"))
+                    if (string.IsNullOrWhiteSpace(tb.Text) && !tb.Name.Equals("txbmbn"))
                         hasError = true;
                 }
             }
@@ -119,10 +120,12 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             {
                 try
                 {
-                    lichSu.IDLichSuDieuTri = int.Parse(txbmbn.Text);
+                    lichSu.IDLichSuDieuTri = int.Parse(tbID.Text);
+                    lichSu.IDBenhNhan = int.Parse(txbmbn.Text);
                     lichSu.ThoiGian = DateTime.Parse(txbtg.Text);
                     lichSu.IDNguoiDieuTri = int.Parse(txbmndt.Text);
                     lichSu.LichSuDieuTri1 = rtblsdt.Text;
+                    
                     db.Entry<LichSuDieuTri>(lichSu).State = (System.Data.Entity.EntityState)EntityState.Modified;
                     db.SaveChanges();
                     hienthi();
@@ -162,6 +165,7 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
         private void btnXoa_Click(object sender, EventArgs e)
         {
             DialogResult dl = MessageBox.Show("Bạn có chắc chắn muốn xóa???", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
             if (dl == DialogResult.Yes)
             {
                 var id = lv.SelectedItems[0].SubItems[1].Text;
@@ -170,6 +174,18 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
                 db.SaveChanges();
                 hienthi();
             }
+        }
+
+        private void lv_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Quản_lý_lịch_sử_điều_trị_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Hide();
+            Main main = new Main();
+            main.ShowDialog();
         }
     }
 }

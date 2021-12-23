@@ -13,186 +13,137 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
 {
     public partial class Quản_lý_người_điều_trị : Form
     {
+        QuanLyCovidModels db = new QuanLyCovidModels();
         public Quản_lý_người_điều_trị()
         {
             InitializeComponent();
         }
-        string chuoiketnoi = @"Data Source=localhost,1433;User ID=sa;Password=1234567890;Database=QuanLyCovid";
-        string sql;
-        SqlConnection ketnoi;
-        SqlCommand thuchien;
-        SqlDataReader docdulieu;
-        int i = 0; int gender; string gt;
+
         private void Quản_lý_người_điều_trị_Load(object sender, EventArgs e)
         {
-            ketnoi = new SqlConnection(chuoiketnoi);
             hienthi();
         }
-        public void hienthi()
+        public void hienthi(List<NguoiDieuTri> list = null)
         {
             lv.Items.Clear();
-            ketnoi.Open();
-            sql = @"select * from Covid.NguoiDieuTri";
-            thuchien = new SqlCommand(sql, ketnoi);
-            docdulieu = thuchien.ExecuteReader();
-            i = 0;
-            while (docdulieu.Read())
+            list = list ?? db.NguoiDieuTris.ToList();
+            for (var i = 0; i < list.Count(); i++)
             {
-                //MessageBox.Show(a);
-                if (docdulieu[2].Equals(true)) { gt = "Nam"; }
-                else { gt = "Nữ"; }
-                //DateTime t = docdulieu[3].
-                //string ngays = String.Format("{0:dd/MM/yyyy}", t);
-                string ns = Convert.ToDateTime(docdulieu[3]).ToString("dd/MM/yyyy");
-                lv.Items.Add((i + 1).ToString());
-                lv.Items[i].SubItems.Add(docdulieu[0].ToString());
-                lv.Items[i].SubItems.Add(docdulieu[1].ToString());
-                lv.Items[i].SubItems.Add(gt);//gioitinh
-                lv.Items[i].SubItems.Add(ns);
-                lv.Items[i].SubItems.Add(docdulieu[4].ToString());
-                lv.Items[i].SubItems.Add(docdulieu[5].ToString());
-                lv.Items[i].SubItems.Add(docdulieu[6].ToString());
-                i++;
-            }
-            ketnoi.Close();
+                lv.Items.Add(new ListViewItem(new string[] {
+                    (i + 1).ToString(),
+                    list.ElementAt(i).IDNguoiDieuTri.ToString(),
+                    list.ElementAt(i).TenNguoiDieuTri,
+                    (list.ElementAt(i).GioiTinh ?? false) ? "Nam":"Nu",
+                    list.ElementAt(i).NgaySinh.ToString(),
+                    list.ElementAt(i).CMND.ToString(),
+                    list.ElementAt(i).DiaChi,
+                    list.ElementAt(i).SDT.ToString(),
+
+                }));
+            };
         }
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-            int acess = 0;
-            lv.Items.Clear();
-            ketnoi.Open();
-            string sql1 = @"select * from Covid.NguoiDieuTri";
-            SqlCommand thuchien1 = new SqlCommand(sql1, ketnoi);
-            SqlDataReader docdulieu1 = thuchien1.ExecuteReader();
-            while (docdulieu1.Read())
+            bool hasError = false;
+            foreach (var el in this.groupBox1.Controls)
             {
-                string mndt = docdulieu1[0].ToString();
-                string cmnd = docdulieu1[4].ToString();
-                string sdt = docdulieu1[5].ToString();
-                if (txbMndt.Text.Trim() == mndt)
+                if (el is TextBox)
                 {
-                    acess = 0;
-                    MessageBox.Show("Yêu cầu nhập mã người điều trị khác", "Mã người điều trị đã tồn tại", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    break;
-                }
-                else if (txbCmnd.Text.Trim() == cmnd)
-                {
-                    acess = 0;
-                    MessageBox.Show("Yêu cầu nhập CMND khác", "CMND trùng với người điều trị khác", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    break;
-                }
-                else if (txbSdt.Text.Trim() == sdt)
-                {
-                    acess = 0;
-                    MessageBox.Show("Yêu cầu nhập SĐT khác", "SĐT trùng với người điều trị khác", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    break;
-                }
-                else if (txbMndt.Text.Trim() == "") { acess = 2; break; }
-                else if (txbTndt.Text.Trim() == "") { acess = 2; break; }
-                else if (txbNs.Text.Trim() == "") { acess = 2; break; }
-                else if (txbCmnd.Text.Trim() == "") { acess = 2; break; }
-                else if (txbSdt.Text.Trim() == "") { acess = 2; break; }
-                else if (txbDc.Text.Trim() == "") { acess = 2; break; }
-                else { acess = 1; }
-            }
-            ketnoi.Close();      
-            ketnoi.Open();
-            if (acess == 1)
-            {
-                sql = @"INSERT Covid.NguoiDieuTri(IDNguoiDieuTri, TenNguoiDieuTRi, GioiTinh, NgaySinh, CMND,SDT, DiaChi) 
-                   VALUES(N'" + txbMndt.Text + @"',N'" + txbTndt.Text + @"',N'" + gender + @"',
-                   N'" + Convert.ToDateTime(txbNs.Text).ToString("yyyy-MM-dd") + @"',N'" + txbCmnd.Text + @"',
-                   N'" + txbSdt.Text + @"',N'" + txbDc.Text + @"')";
-                thuchien = new SqlCommand(sql, ketnoi);
-                int n = thuchien.ExecuteNonQuery();
-                if (n > 0)
-                {
-                    MessageBox.Show("Thêm thành công");
+                    TextBox tb = el as TextBox;
+                    if (string.IsNullOrWhiteSpace(tb.Text))
+                        hasError = true;
                 }
             }
-            else if (acess == 2)
+
+            if (!hasError)
             {
-                MessageBox.Show("Yêu cầu nhập đầy đủ thông tin");
+                try
+                {
+                    var nguoiDieuTri = new NguoiDieuTri();
+                    nguoiDieuTri.IDNguoiDieuTri = int.Parse(txbMndt.Text);
+                    nguoiDieuTri.GioiTinh = rdbGtnam.Checked ? true : false;
+                    nguoiDieuTri.NgaySinh = DateTime.Parse(txbNs.Text);
+                    nguoiDieuTri.TenNguoiDieuTri = txbTndt.Text;
+                    nguoiDieuTri.SDT = int.Parse(txbSdt.Text);
+                    nguoiDieuTri.DiaChi = txbDc.Text;
+                    nguoiDieuTri.CMND = int.Parse(txbCmnd.Text);
+                    db.NguoiDieuTris.Add(nguoiDieuTri);
+                    db.SaveChanges();
+                    hienthi();
+                }
+                catch (FormatException)
+                {
+                    MessageBox.Show("Lỗi xảy ra", "Định dạng nhập vào không chính xác.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Lỗi xảy ra", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
             }
-            ketnoi.Close();
-            hienthi();
+            else
+            {
+                MessageBox.Show("Yêu cầu nhập đủ thông tin", "Bạn nhập thiếu thông tin", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            int acess = 0;
-            lv.Items.Clear();
-            ketnoi.Open();
-            string sql1 = @"select * from Covid.NguoiDieuTri where IDNguoiDieuTri != N'" + txbMndt.Text + @"'";
-            SqlCommand thuchien1 = new SqlCommand(sql1, ketnoi);
-            SqlDataReader docdulieu1 = thuchien1.ExecuteReader();
-            while (docdulieu1.Read())
+            var nguoiDieuTri = db.NguoiDieuTris.Find(int.Parse(txbMndt.Text));
+            bool hasError = false;
+            foreach (var el in this.groupBox1.Controls)
             {
-                string mndt = docdulieu1[0].ToString();
-                string cmnd = docdulieu1[4].ToString();
-                string sdt = docdulieu1[5].ToString();
-                if (txbMndt.Text.Trim() == mndt)
+                if (el is TextBox)
                 {
-                    acess = 0;
-                    MessageBox.Show("Yêu cầu nhập mã người điều trị khác", "Mã người điều trị đã tồn tại", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    break;
-                }
-                else if (txbCmnd.Text.Trim() == cmnd)
-                {
-                    acess = 0;
-                    MessageBox.Show("Yêu cầu nhập CMND khác", "CMND trùng với người điều trị khác", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    break;
-                }
-                else if (txbSdt.Text.Trim() == cmnd)
-                {
-                    acess = 0;
-                    MessageBox.Show("Yêu cầu nhập SĐT khác", "SĐT trùng với người điều trị khác", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    break;
-                }
-                else if (txbMndt.Text.Trim() == "") { acess = 2; break; }
-                else if (txbTndt.Text.Trim() == "") { acess = 2; break; }
-                else if (txbNs.Text.Trim() == "")   { acess = 2; break; }
-                else if (txbCmnd.Text.Trim() == "") { acess = 2; break; }
-                else if (txbSdt.Text.Trim() == "")  { acess = 2; break; }
-                else if (txbDc.Text.Trim() == "")   { acess = 2; break; }
-                else { acess = 1; }
-            }
-            ketnoi.Close();
-            ketnoi.Open();
-            if (acess == 1)
-            {
-                sql = @"UPDATE Covid.NguoiDieuTri SET  
-                   IDNguoiDieuTri = N'" + txbMndt.Text + @"', TenNguoiDieuTri = N'" + txbTndt.Text + @"', GioiTinh = N'" + gender + @"',
-                   NgaySinh = N'" + Convert.ToDateTime(txbNs.Text).ToString("yyyy-MM-dd") + @"', CMND = N'" + txbCmnd.Text + @"',
-                   SDT = N'" + txbSdt.Text + @"',DiaChi = N'" + txbDc.Text + @"'           
-                   where IDBenhNhan = N'" + txbMndt.Text + "'";
-                thuchien = new SqlCommand(sql, ketnoi);
-                int n = thuchien.ExecuteNonQuery();
-                if (n > 0)
-                {
-                    MessageBox.Show("Sửa thành công!");
+                    TextBox tb = el as TextBox;
+                    if (string.IsNullOrWhiteSpace(tb.Text))
+                        hasError = true;
                 }
             }
-            else if (acess == 2) { MessageBox.Show("Yêu cầu nhập đầy đủ thông tin!"); }
-            ketnoi.Close();
-            hienthi();
+            if (!hasError)
+            {
+                try
+                {
+                    nguoiDieuTri.GioiTinh = rdbGtnam.Checked ? true : false;
+                    nguoiDieuTri.NgaySinh = DateTime.Parse(txbNs.Text);
+                    nguoiDieuTri.TenNguoiDieuTri = txbTndt.Text;
+                    nguoiDieuTri.SDT = int.Parse(txbSdt.Text);
+                    nguoiDieuTri.DiaChi = txbDc.Text;
+                    nguoiDieuTri.CMND = int.Parse(txbCmnd.Text);
+                    nguoiDieuTri.IDNguoiDieuTri = int.Parse(txbMndt.Text);
+                    db.Entry<NguoiDieuTri>(nguoiDieuTri).State = (System.Data.Entity.EntityState)EntityState.Modified;
+                    db.SaveChanges();
+                    hienthi();
+                }
+                catch (FormatException)
+                {
+                    MessageBox.Show("Lỗi xảy ra", "Định dạng nhập vào không chính xác.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Lỗi xảy ra", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Yêu cầu nhập đủ thông tin", "Bạn nhập thiếu thông tin", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            lv.Items.Clear();
-            ketnoi.Open();
-            sql = @"Delete FROM Covid.NguoiDieuTri where (IDNguoiDieuTri = N'" + txbMndt.Text + "')";
-            thuchien = new SqlCommand(sql, ketnoi);
-
-            int n = thuchien.ExecuteNonQuery();
-            if (n > 0)
+            DialogResult dl = MessageBox.Show("Bạn có chắc chắn muốn xóa???", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dl == DialogResult.Yes)
             {
-                MessageBox.Show("Xóa thành công!");
+                var id = lv.SelectedItems[0].SubItems[1].Text;
+                var nguoDieuTri = db.NguoiDieuTris.Find(int.Parse(id));
+                db.LichSuDieuTris.RemoveRange(nguoDieuTri.LichSuDieuTris);
+                db.NguoiDieuTris.Remove(nguoDieuTri);
+                db.SaveChanges();
+                hienthi();
             }
-            ketnoi.Close();
-            hienthi();
         }
 
         private void lv_DoubleClick(object sender, EventArgs e)
@@ -210,24 +161,22 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
                 else rdbGtnu.Checked = true;
                 txbNs.Text = lvi.SubItems[4].Text;
                 txbCmnd.Text = lvi.SubItems[5].Text;
-                txbSdt.Text = lvi.SubItems[6].Text;
-                txbDc.Text = lvi.SubItems[7].Text;
+                txbDc.Text = lvi.SubItems[6].Text;
+                txbSdt.Text = lvi.SubItems[7].Text;
             }
             else
             {
                 MessageBox.Show("Ban chua chon doi tuong.");
             }
         }
-       
+
 
         private void rdbGtnam_CheckedChanged(object sender, EventArgs e)
         {
-            gender = 1;
         }
 
         private void rdbGtnu_CheckedChanged(object sender, EventArgs e)
         {
-            gender = 0;
         }
 
         private void btndatetime_Click(object sender, EventArgs e)
@@ -236,7 +185,7 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             mtc.Location = new Point(319, 1);
         }
 
-        
+
         private void mtc_DateSelected_1(object sender, DateRangeEventArgs e)
         {
             txbNs.Text = mtc.SelectionStart.ToShortDateString();
@@ -248,5 +197,11 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             mtc.Visible = false;
         }
 
+        private void Quản_lý_người_điều_trị_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Hide();
+            Main main = new Main();
+            main.ShowDialog();
+        }
     }
 }

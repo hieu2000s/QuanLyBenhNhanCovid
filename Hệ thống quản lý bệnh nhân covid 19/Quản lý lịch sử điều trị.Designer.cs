@@ -37,6 +37,7 @@
             this.lvtkvdt = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.lvmt = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.tbID = new System.Windows.Forms.TextBox();
             this.rtblsdt = new System.Windows.Forms.TextBox();
             this.txbmbn = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -49,6 +50,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.mtc = new System.Windows.Forms.MonthCalendar();
             this.label1 = new System.Windows.Forms.Label();
+            this.idLsdt = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             lvsoluong = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -56,12 +58,12 @@
             // lvsoluong
             // 
             lvsoluong.Text = "Lịch sử điều trị:*";
-            lvsoluong.Width = 210;
+            lvsoluong.Width = 215;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(12, 195);
+            this.label5.Location = new System.Drawing.Point(12, 194);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(109, 17);
             this.label5.TabIndex = 12;
@@ -80,6 +82,7 @@
             // 
             this.lv.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.lvstt,
+            this.idLsdt,
             this.lvmpdt,
             this.lvtkvdt,
             this.lvmt,
@@ -88,11 +91,13 @@
             this.lv.GridLines = true;
             this.lv.HideSelection = false;
             this.lv.Location = new System.Drawing.Point(12, 186);
+            this.lv.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.lv.Name = "lv";
             this.lv.Size = new System.Drawing.Size(716, 495);
             this.lv.TabIndex = 21;
             this.lv.UseCompatibleStateImageBehavior = false;
             this.lv.View = System.Windows.Forms.View.Details;
+            this.lv.SelectedIndexChanged += new System.EventHandler(this.lv_SelectedIndexChanged);
             this.lv.DoubleClick += new System.EventHandler(this.lv_DoubleClick);
             // 
             // lvstt
@@ -108,7 +113,7 @@
             // lvtkvdt
             // 
             this.lvtkvdt.Text = "Mã người điều trị:*";
-            this.lvtkvdt.Width = 90;
+            this.lvtkvdt.Width = 105;
             // 
             // lvmt
             // 
@@ -117,6 +122,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.tbID);
             this.groupBox1.Controls.Add(this.rtblsdt);
             this.groupBox1.Controls.Add(this.txbmbn);
             this.groupBox1.Controls.Add(this.label6);
@@ -130,15 +136,28 @@
             this.groupBox1.Controls.Add(this.btnThem);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Location = new System.Drawing.Point(744, 181);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(426, 560);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox1.Size = new System.Drawing.Size(427, 560);
             this.groupBox1.TabIndex = 18;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin";
             // 
+            // tbID
+            // 
+            this.tbID.Location = new System.Drawing.Point(75, 235);
+            this.tbID.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tbID.Multiline = true;
+            this.tbID.Name = "tbID";
+            this.tbID.Size = new System.Drawing.Size(256, 29);
+            this.tbID.TabIndex = 33;
+            this.tbID.Visible = false;
+            // 
             // rtblsdt
             // 
             this.rtblsdt.Location = new System.Drawing.Point(153, 192);
+            this.rtblsdt.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rtblsdt.Multiline = true;
             this.rtblsdt.Name = "rtblsdt";
             this.rtblsdt.Size = new System.Drawing.Size(256, 285);
@@ -146,7 +165,8 @@
             // 
             // txbmbn
             // 
-            this.txbmbn.Location = new System.Drawing.Point(153, 36);
+            this.txbmbn.Location = new System.Drawing.Point(153, 27);
+            this.txbmbn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txbmbn.Multiline = true;
             this.txbmbn.Name = "txbmbn";
             this.txbmbn.Size = new System.Drawing.Size(256, 29);
@@ -164,9 +184,10 @@
             // btndatetime
             // 
             this.btndatetime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btndatetime.Location = new System.Drawing.Point(360, 136);
+            this.btndatetime.Location = new System.Drawing.Point(360, 135);
+            this.btndatetime.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btndatetime.Name = "btndatetime";
-            this.btndatetime.Size = new System.Drawing.Size(49, 29);
+            this.btndatetime.Size = new System.Drawing.Size(49, 30);
             this.btndatetime.TabIndex = 29;
             this.btndatetime.Text = "...";
             this.btndatetime.UseVisualStyleBackColor = true;
@@ -174,7 +195,8 @@
             // 
             // txbtg
             // 
-            this.txbtg.Location = new System.Drawing.Point(153, 136);
+            this.txbtg.Location = new System.Drawing.Point(153, 135);
+            this.txbtg.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txbtg.Multiline = true;
             this.txbtg.Name = "txbtg";
             this.txbtg.Size = new System.Drawing.Size(201, 29);
@@ -183,6 +205,7 @@
             // txbmndt
             // 
             this.txbmndt.Location = new System.Drawing.Point(153, 84);
+            this.txbmndt.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txbmndt.Multiline = true;
             this.txbmndt.Name = "txbmndt";
             this.txbmndt.Size = new System.Drawing.Size(256, 29);
@@ -192,6 +215,7 @@
             // 
             this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.Location = new System.Drawing.Point(292, 497);
+            this.btnXoa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(128, 47);
             this.btnXoa.TabIndex = 8;
@@ -203,6 +227,7 @@
             // 
             this.btnSua.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.Location = new System.Drawing.Point(153, 497);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(133, 47);
             this.btnSua.TabIndex = 7;
@@ -214,6 +239,7 @@
             // 
             this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.Location = new System.Drawing.Point(15, 497);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(132, 47);
             this.btnThem.TabIndex = 6;
@@ -242,23 +268,31 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(518, 57);
+            this.label1.Location = new System.Drawing.Point(517, 57);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(148, 17);
             this.label1.TabIndex = 17;
             this.label1.Text = "Quản lý lịch sử điều trị";
             // 
+            // idLsdt
+            // 
+            this.idLsdt.Text = "Mã lịch sử điều trị";
+            this.idLsdt.Width = 136;
+            // 
             // Quản_lý_lịch_sử_điều_trị
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1182, 753);
+            this.ClientSize = new System.Drawing.Size(1181, 753);
             this.Controls.Add(this.mtc);
             this.Controls.Add(this.lv);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Quản_lý_lịch_sử_điều_trị";
-            this.Text = "ư";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Quản lý lịch sử điều trị";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Quản_lý_lịch_sử_điều_trị_FormClosing);
             this.Load += new System.EventHandler(this.Quản_lý_lịch_sử_điều_trị_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -288,5 +322,7 @@
         private System.Windows.Forms.TextBox txbmbn;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox rtblsdt;
+        private System.Windows.Forms.TextBox tbID;
+        private System.Windows.Forms.ColumnHeader idLsdt;
     }
 }

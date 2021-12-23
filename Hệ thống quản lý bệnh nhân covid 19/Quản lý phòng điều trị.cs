@@ -145,23 +145,31 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
         private void btnXoa_Click(object sender, EventArgs e)
         {
             DialogResult dl = MessageBox.Show("Bạn có chắc chắn muốn xóa???", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (dl == DialogResult.Yes)
+            try
             {
-                var id = lv.SelectedItems[0].SubItems[1].Text;
-                var phong = db.PhongDieuTris.Find(int.Parse(id));
-                try
+                if (dl == DialogResult.Yes)
                 {
-                    db.PhongDieuTris.Remove(phong);
-                    db.SaveChanges();
-                    hienthi();
-                }
-                catch (Exception)
-                {
-                    MessageBox.Show("Bạn không thể xóa phòng vực này", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
+                    var id = lv.SelectedItems[0].SubItems[1].Text;
+                    var phong = db.PhongDieuTris.Find(int.Parse(id));
+                    try
+                    {
+                        db.PhongDieuTris.Remove(phong);
+                        db.SaveChanges();
+                        hienthi();
+                    }
+                    catch (Exception)
+                    {
+                        MessageBox.Show("Bạn không thể xóa phòng này", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
 
+                }
+                hienthi();
             }
-            hienthi();
+            catch(Exception)
+            {
+                MessageBox.Show("Bạn không thể xóa phòng lúc này", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
 
         
@@ -181,6 +189,11 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
             //MessageBox.Show(makv.ToString());
         }
 
-
+        private void Quản_lý_phòng_điều_trị_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Hide();
+            Main main = new Main();
+            main.ShowDialog();
+        }
     }
 }

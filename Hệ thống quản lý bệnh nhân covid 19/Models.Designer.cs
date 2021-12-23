@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\Models.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\Models.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

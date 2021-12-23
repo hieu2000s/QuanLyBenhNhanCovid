@@ -95,6 +95,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Models.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Handlers\UserLoginHandler.cs" />
     <Compile Include="NguoiDieuTri.cs">
       <DependentUpon>Models.tt</DependentUpon>
     </Compile>

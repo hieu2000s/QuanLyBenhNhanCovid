@@ -38,6 +38,7 @@
             this.lvcmnd = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.lvsdt = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txID = new System.Windows.Forms.TextBox();
             this.btnhien = new System.Windows.Forms.Button();
             this.rdbndt = new System.Windows.Forms.RadioButton();
             this.rdbqtv = new System.Windows.Forms.RadioButton();
@@ -79,6 +80,7 @@
             this.lvhoten,
             this.lvcmnd,
             this.lvsdt});
+            this.lv.FullRowSelect = true;
             this.lv.GridLines = true;
             this.lv.HideSelection = false;
             this.lv.Location = new System.Drawing.Point(12, 170);
@@ -126,6 +128,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.txID);
             this.groupBox1.Controls.Add(this.btnhien);
             this.groupBox1.Controls.Add(this.rdbndt);
             this.groupBox1.Controls.Add(this.rdbqtv);
@@ -150,6 +153,15 @@
             this.groupBox1.TabIndex = 18;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin";
+            // 
+            // txID
+            // 
+            this.txID.Location = new System.Drawing.Point(161, 31);
+            this.txID.Multiline = true;
+            this.txID.Name = "txID";
+            this.txID.Size = new System.Drawing.Size(229, 29);
+            this.txID.TabIndex = 39;
+            this.txID.Visible = false;
             // 
             // btnhien
             // 
@@ -328,12 +340,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1182, 753);
+            this.ClientSize = new System.Drawing.Size(1182, 571);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.lv);
             this.Controls.Add(this.label1);
             this.Name = "Quản_lý_tài_khoản";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản_lý_tài_khoản";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Quản_lý_tài_khoản_FormClosing);
             this.Load += new System.EventHandler(this.Quản_lý_tài_khoản_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -371,5 +385,6 @@
         private System.Windows.Forms.RadioButton rdbndt;
         private System.Windows.Forms.RadioButton rdbqtv;
         private System.Windows.Forms.Button btnhien;
+        private System.Windows.Forms.TextBox txID;
     }
 }

@@ -79,6 +79,7 @@
             this.txbID.Name = "txbID";
             this.txbID.Size = new System.Drawing.Size(256, 29);
             this.txbID.TabIndex = 9;
+            this.txbID.Visible = false;
             // 
             // btnXoa
             // 
@@ -193,7 +194,9 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Name = "Quản_lý_khu_vực_điều_trị";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản_lý_khu_vực_điều_trị";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Quản_lý_khu_vực_điều_trị_FormClosing);
             this.Load += new System.EventHandler(this.Quản_lý_khu_vực_điều_trị_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

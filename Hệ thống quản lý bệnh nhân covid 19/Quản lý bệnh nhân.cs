@@ -138,14 +138,20 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
         private void btnXoa_Click(object sender, EventArgs e)
         {
             DialogResult dl = MessageBox.Show("Bạn có chắc chắn muốn xóa???", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (dl == DialogResult.Yes)
+            try
             {
-                var id = lv.SelectedItems[0].SubItems[1].Text;
-                var benhNhan = db.BenhNhans.Find(int.Parse(id));
-                db.LichSuDieuTris.RemoveRange(benhNhan.LichSuDieuTris);
-                db.BenhNhans.Remove(benhNhan);
-                db.SaveChanges();
-                hienthi();
+                if (dl == DialogResult.Yes)
+                {
+                    var id = lv.SelectedItems[0].SubItems[1].Text;
+                    var benhNhan = db.BenhNhans.Find(int.Parse(id));
+                    db.LichSuDieuTris.RemoveRange(benhNhan.LichSuDieuTris);
+                    db.BenhNhans.Remove(benhNhan);
+                    db.SaveChanges();
+                    hienthi();
+                }
+            }
+            catch(Exception){
+                MessageBox.Show("Bạn không thể xóa bệnh nhân này", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private void rdbGtnam_CheckedChanged(object sender, EventArgs e)
@@ -234,6 +240,13 @@ namespace Hệ_thống_quản_lý_bệnh_nhân_covid_19
         private void label7_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Quản_lý_bệnh_nhân_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Hide();
+            Main main = new Main();
+            main.ShowDialog();
         }
     }
 }

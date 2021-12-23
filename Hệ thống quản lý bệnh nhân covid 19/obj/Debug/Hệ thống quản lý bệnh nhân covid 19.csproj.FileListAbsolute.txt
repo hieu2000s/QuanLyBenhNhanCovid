@@ -56,3 +56,27 @@ D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 1
 D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\System.Data.SqlClient.dll
 D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.SqlServer.xml
 D:\he_thong_quan_ly_benh_nhan_covid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe.config
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Main.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_bệnh_nhân.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_khu_vực_điều_trị.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_lịch_sử_điều_trị.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_người_điều_trị.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_phòng_điều_trị.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Quản_lý_tài_khoản.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ_thống_quản_lý_bệnh_nhân_covid_19.Đăng_nhập.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.exe
+C:\Users\Admin\Desktop\New folder (2)\QuanLyBenhNhanCovid\Hệ thống quản lý bệnh nhân covid 19\obj\Debug\Hệ thống quản lý bệnh nhân covid 19.pdb
